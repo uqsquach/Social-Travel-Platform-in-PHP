@@ -1,0 +1,68 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+	background-color: white;
+}
+
+/* ================ Profile ===================  */
+/* #ec3e9b;*/
+.fa-arrow-left,
+.fa-home {
+	color: #63c8da;
+	font-size: 20px;
+	margin-top: 15px;
+	margin-left: 10px;
+}
+/* rounded-circle profile image */
+img.profile-pic {
+	width: 130px;
+	height: 130px;
+	background-color: white;
+	border: 5px solid white;
+	margin-top: -200px;
+	margin-left: 20px;
+}
+a#profile-pic:hover {
+	opacity: 0.7;
+}
+
+  
+img.img-people:hover {
+	opacity: 0.7;
+}
+img.img-people.content {
+	position: absolute;
+	bottom: 0;
+	background: rgb(0, 0, 0); /* Fallback color */
+	background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+	color: #f1f1f1;
+  }
+  img.img-people.content span{
+	font-size: 1pt!important;
+	text-align: center!important;
+  }
+@media only screen and (max-width: 1024px) {
+
+	#left{
+		margin-left: -45px ;
+	}
+	.img-people{
+		height: 170px;
+		width: 120px;
+	}
+}
+@media only screen and (max-width: 375px) {
+
+	#left{
+		margin-left: -55px ;
+	}
+	.sidebar-right{
+		display: none;
+	}
+}
