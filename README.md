@@ -25,6 +25,6 @@ This web app is running in XAMPP platform:
 - reCAPTCHA v3
 
 # Current State:
+<img src="https://github.com/uqsquach/Social-Travel-Platform-in-PHP/blob/main/images/2.png" width = "400"> <img src="https://github.com/uqsquach/Social-Travel-Platform-in-PHP/blob/main/images/3.png" width = "400">
 <img src="https://github.com/uqsquach/Social-Travel-Platform-in-PHP/blob/main/images/1.png" width = "600">
-<img src="https://github.com/uqsquach/Social-Travel-Platform-in-PHP/blob/main/images/2.png" width = "400">
-<img src="https://github.com/uqsquach/Social-Travel-Platform-in-PHP/blob/main/images/3.png" width = "400">
+
