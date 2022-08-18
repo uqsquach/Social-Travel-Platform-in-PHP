@@ -1,4 +1,4 @@
-# Social Travel Platform in PHP
+# Social Travel Platform in PHP (CodeIgniter)
 This is a Travel social media platform that comes with writing travel reviews and comments. This project inspired by Facebook and the worldwide covid incident brought the tourism industry to the brink of collapse.
 
 # Web Server
