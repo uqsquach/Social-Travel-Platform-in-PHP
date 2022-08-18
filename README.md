@@ -28,7 +28,7 @@ This web app is running in XAMPP platform:
 
 <img src="https://github.com/uqsquach/Social-Travel-Platform-in-PHP/blob/main/images/main page.png" width = "5000">
 <img src="https://github.com/uqsquach/Social-Travel-Platform-in-PHP/blob/main/images/profile page.png" length ="500" width = "5000">
-<img src="https://github.com/uqsquach/Social-Travel-Platform-in-PHP/blob/main/images/1.png" width = "500"> 
+<img src="https://github.com/uqsquach/Social-Travel-Platform-in-PHP/blob/main/images/3.png" width = "500"> 
 
 
 
